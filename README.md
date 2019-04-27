@@ -6,7 +6,9 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 Using the Dataset provided we will be answering the following questions using Excel Data Analysis and Pivot
 1. What conclusions we can make on the Dataset 
+
 2.What are the limitations of the dataset
+
 3. Create charts and graphs which gives us the big picture.
 
 The Analysis report is in the word document in the repository
